@@ -1,0 +1,63 @@
+[
+{
+    "name" : "ACACIAS El Eden Mongora",
+    "imageurls" : [
+
+        "https://drive.google.com/file/d/1ye88UurXkllDnjy5GK5z6_nsvAJC7wXm/view?usp=sharing",
+        "https://drive.google.com/file/d/1Hja5_rytGoiwuO5c-Z3oI2ZTrfsSZuX_/view?usp=sharing",
+        "https://drive.google.com/file/d/1ZAhpCB3BfhCIxGsyeGlhWd70eySxyklx/view?usp=sharing"
+    ],
+
+    "rentperday" : 1500,
+    "type" : "Delux",
+    "maxCount" : 3,
+    "phoneNumber" : 55555555,
+    "currentbookings" : [
+
+    ],
+    "description" : "Con vista al bosque Encantado"
+
+},
+
+{
+    "name" : "ASTROMELIAS  El Eden Mongora",
+    "imageurls" : [
+
+        "https://drive.google.com/file/d/1ye88UurXkllDnjy5GK5z6_nsvAJC7wXm/view?usp=sharing",
+        "https://drive.google.com/file/d/1Hja5_rytGoiwuO5c-Z3oI2ZTrfsSZuX_/view?usp=sharing",
+        "https://drive.google.com/file/d/1ZAhpCB3BfhCIxGsyeGlhWd70eySxyklx/view?usp=sharing"
+    ],
+
+    "rentperday" : 2000,
+    "type" : "No Delux",
+    "maxCount" : 2,
+    "phoneNumber" : 55555555,
+    "currentbookings" : [
+
+    ],
+    "description" : "En lo alto de la cabaña"
+
+},
+
+{
+    "name" : "ORQUIDEAS  El Eden Mongora",
+    "imageurls" : [
+
+        "https://drive.google.com/file/d/1ye88UurXkllDnjy5GK5z6_nsvAJC7wXm/view?usp=sharing",
+        "https://drive.google.com/file/d/1Hja5_rytGoiwuO5c-Z3oI2ZTrfsSZuX_/view?usp=sharing",
+        "https://drive.google.com/file/d/1ZAhpCB3BfhCIxGsyeGlhWd70eySxyklx/view?usp=sharing"
+    ],
+
+    "rentperday" : 6000,
+    "type" : "Delux",
+    "maxCount" : 2,
+    "phoneNumber" : 55555555,
+    "currentbookings" : [
+
+    ],
+    "description" : "Confort inolvidable"
+
+}
+
+]
+
